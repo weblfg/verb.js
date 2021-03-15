@@ -1,0 +1,11 @@
+{
+  "name": "l_bus",
+  "version": "1.0.0",
+  "description": "Communication between sibling components",
+  "main": "events.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "weblfg@163.com",
+  "license": "ISC"
+}
