@@ -1,11 +1,11 @@
 ###  Solve the problem of communication between components
 * 安装 install
 ```
-npm i l_bus -S
+npm i verb.js  -S
 ```
 * Instructions for use
 ```
-const bus=require('verb').Event;
+const bus=require('verb.js').Event;
 bus.on('send',callback)
 //订阅
 bus.emit('send',arguments)
