@@ -1,4 +1,5 @@
 ###  Solve the problem of communication between components
+* 解决前端组件间通信的问题
 * 安装 install
 ```
 npm i verb.js  -S
