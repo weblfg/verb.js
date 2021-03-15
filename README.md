@@ -1,11 +1,11 @@
-### 轻量化bus,js之间通信
-* 安装
+###  Solve the problem of communication between components
+* 安装 install
 ```
 npm i l_bus -S
 ```
-* 使用说明
+* Instructions for use
 ```
-const bus=require('l_bus').Event;
+const bus=require('verb').Event;
 bus.on('send',callback)
 //订阅
 bus.emit('send',arguments)
